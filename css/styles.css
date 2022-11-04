@@ -5,5 +5,10 @@
 }
 
 body {
-    
+    background-color: rgb(252, 183, 92);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+
 }
